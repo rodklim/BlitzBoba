@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Blitz Boba</string>
+    <string name="large_text">Blitz Boba breaks cultural barriers by creating unique drinks and bringing American and Asian together. We strive to not only make high quality boba drinks, but also to serve the Las Vegas community!</string>
+    <string name="menu">Menu</string>
+    <string name="menuItems">SIGNATURES
+        Mint Mojito Milk Tea
+OG milk tea with a hint of mint
+Horchata
+Traditional Mexican cinnamon rice water
+Coconut Thai Tea
+Thai tea with all-natural coconut milk
+Oreo Milk Tea
+OG milk tea with Oreo crumbles
+SLUSHES
+Rare Candy
+Caramel Apple
+Yeet-che
+SMOOTHIES
+Honeydew
+Strawberry
+Peach
+Orange Creamsicle
+Taro
+TOPPINGS
+Boba
+Mini Boba
+Lychee Jelly
+Rainbow Jelly</string>
+    <string name="action_settings">Settings</string>
+</resources>
